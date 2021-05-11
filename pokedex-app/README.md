@@ -1,6 +1,10 @@
-# Getting Started with Create React App
-
+# Getting Started 
+cd pokedex-app
+cd json-server
 json-server --watch pokedex.json -p 3001 -d 2000
+
+cd..
+yarn start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
